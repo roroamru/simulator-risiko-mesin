@@ -32,7 +32,7 @@ def jalankan_saw(matriks, bobot):
 # ==========================================
 # 2. ANTARMUKA STREAMLIT (UI)
 # ==========================================
-st.title("Simulator Risiko Mesin (UAS Version)")
+st.title("Simulator Risiko Mesin")
 st.write("Sistem Cerdas Integrasi ML (Prediksi) dan SPK (Rekomendasi Tindakan)")
 
 # Menggunakan Slider untuk Interaksi (Live Intervention)
